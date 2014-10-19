@@ -1,0 +1,11 @@
+{
+  "name": "muxpeak",
+  "version": "1.0.0",
+  "description": "Play from more than one speaker at once",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
